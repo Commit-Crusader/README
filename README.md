@@ -1,5 +1,5 @@
 # README
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Jonathan Lartey!
 
 Welcome to my GitHub! I'm currently a Software Engineering learner with the ALX program—a journey that's not just about learning to code, but about growing through collaboration, curiosity, and real-world projects.
 
